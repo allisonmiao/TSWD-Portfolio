@@ -36,7 +36,8 @@ This heat map, sourced from the OECD, illustrates the evolution of national debt
 
 This line graph, sourced from the OECD, illustrates the trend of national debt-to-GDP ratios for selected countries from 1995 to 2019. It tracks the fiscal metrics of Australia, Belgium, Canada, France, Japan, and the United States, each represented by a distinct color. The graph highlights significant trends and shifts in debt levels relative to GDP and compares how each country's debt situation has evolved over the specified period.
 
-**Summary**\n
+**Summary**
+
 The three visualization methods present national debt-to-GDP ratios by offering unique insights into fiscal dynamics. The bar graph captures a straightforward comparison of countries at the year of 2010. In contrast, the second method, the heat map, spans from 1995 to 2019, using color gradients to indicate fluctuations over time, with blue shades representing ratios below 100% and orange for those above. This visualization effectively highlights trends and periods of fiscal change across a broader set of countries.
 
 The line graph traces the specific debt trajectories of six countries over the same period, offering a dynamic view of how debt levels have evolved in response to economic policies and global events. I chose to do this visualization because it analyzes the impact of fiscal decisions and economic crises on national debt levels.

@@ -4,7 +4,7 @@ This is a data visualization exercise using the dataset of General Government De
 
 ## Part 1: Working with web-based visualization tools and data
 
-![visualizing-debt-part1](https://github.com/allisonmiao/TSWD-Portfolio/blob/main/visualizing-debt-part1.png)
+![visualizing-debt-part1](https://github.com/user-attachments/assets/707da262-76cf-4726-ac4b-b05debf16bea)
 
 The bar graph displayed here, sourced from the OECD, visualizes the general government debt as a percentage of GDP for various countries in the year 2010. It highlights the significant variation in debt levels across different nations, with Japan showing the highest ratio, significantly above other countries. This metric represents the total gross debt of a country's government relative to its GDP. Tracking this ratio could assess the sustainability of government finances, as it reflects the cumulative impact of government deficits for a specific time.
 

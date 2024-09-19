@@ -77,7 +77,7 @@ The feedback emphasizes the importance of comprehensive data representation in v
 ### Proposed Design Changes for Final Redesign
 - Integrate Additional Data Details: Metrics of audience ratings will be included to provide a holistic view of each movie’s success. Movie earnings from domestic and international markets will also be analyzed.
 - Improve Graph Readability: Techniques like increasing spacing will be implemented.
-Enhance Interactivity: The addition of a filter for movie series will allow users to tailor the visualization to their interests.
+- Enhance Interactivity: The addition of a filter for movie series will allow users to tailor the visualization to their interests.
 
 ## Step five: Build your solution
 

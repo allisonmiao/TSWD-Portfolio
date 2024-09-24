@@ -1,4 +1,4 @@
-| [home page](https://allisonmiao.github.io/TSWD-Portfolio) | [visualizing debt](https://allisonmiao.github.io/TSWD-Portfolio/visualizing-debt) | [critique by design](https://allisonmiao.github.io/TSWD-Portfolio/critique-by-design) | final project I | final project II | final project III |
+| [home page](https://allisonmiao.github.io/TSWD-Portfolio) | [visualizing debt](https://allisonmiao.github.io/TSWD-Portfolio/visualizing-debt) | [critique by design](https://allisonmiao.github.io/TSWD-Portfolio/critique-by-design) | [final project I](https://allisonmiao.github.io/TSWD-Portfolio/final-project-I) | final project II | final project III |
 
 # TSWD Portfolio
 Portfolio Page for Telling Story With Data
@@ -22,3 +22,5 @@ Upon graduating, I plan to pursue a career where I can provide these capabilitie
 ## Assignment: [Visualizing government debt using Tableau](https://allisonmiao.github.io/TSWD-Portfolio/visualizing-debt)
 
 ## Assignment: [Critique by Design with Tableau (MakeoverMonday)](https://allisonmiao.github.io/TSWD-Portfolio/critique-by-design)
+
+## Assignment: [Part I: Final project]((https://allisonmiao.github.io/TSWD-Portfolio/final-project-I))

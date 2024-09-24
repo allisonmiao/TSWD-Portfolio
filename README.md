@@ -23,4 +23,4 @@ Upon graduating, I plan to pursue a career where I can provide these capabilitie
 
 ## Assignment: [Critique by Design with Tableau (MakeoverMonday)](https://allisonmiao.github.io/TSWD-Portfolio/critique-by-design)
 
-## Assignment: [Part I: Final project]((https://allisonmiao.github.io/TSWD-Portfolio/final-project-I))
+## Assignment: [Part I: Final project](https://allisonmiao.github.io/TSWD-Portfolio/final-project-I)

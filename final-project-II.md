@@ -46,14 +46,21 @@ Final Project Overview
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   Clarity of the Story   |Does the narrative of the dashboard come through clearly? If not, which aspects are unclear or confusing?|
-|   Effectiveness of Visualizations   |Do the visualizations clearly represent the relationships between critical acclaim, sales, platform success, and genre preferences? Are there any elements that need improvement?|
-|   Completeness of Insights   |Do you feel that the dashboard covers all key insights, or are there additional details (e.g., filters or breakdowns) that could provide a more complete analysis?|
-|   Usability and Interactivity   |How easy is it to navigate and interact with the dashboard? Are the filters and interactive elements intuitive, or could they be more user-friendly?|
-|   Design and Layout   |What are your impressions of the design and layout? Do the charts, text, and filters feel well-balanced, or are there areas where the design could be improved?
-|
+|Clarity of the Story|Does the narrative of the dashboard come through clearly? If not, which aspects are unclear or confusing?|
+|Effectiveness of Visualizations|Do the visualizations clearly represent the relationships between critical acclaim, sales, platform success, and genre preferences? Are there any elements that need improvement?|
+|Completeness of Insights|Do you feel that the dashboard covers all key insights, or are there additional details (e.g., filters or breakdowns) that could provide a more complete analysis?|
+|Usability and Interactivity|How easy is it to navigate and interact with the dashboard? Are the filters and interactive elements intuitive, or could they be more user-friendly?|
+|Design and Layout|What are your impressions of the design and layout? Do the charts, text, and filters feel well-balanced, or are there areas where the design could be improved?|
 
 ### Interview findings
+
+| Questions               | Interview 1 | Interview 2 |
+|-------------------------|--------------------------------|-------------|
+|Does the narrative of the dashboard come through clearly? If not, which aspects are unclear or confusing?	|"Yes, the overall narrative is clear. The relationships between video game quality, sales, and platform-specific success are well communicated. It’s easy to follow the story and see the trends."	|"Yes, the story is clear, but I think there's too much text in the introduction. It’s a bit overwhelming for users at first glance. Streamlining the text might help make the narrative easier to absorb."| 
+|Do the visualizations clearly represent the relationships between critical acclaim, sales, platform success, and genre preferences? Are there any elements that need improvement?	|"The visualizations are effective for the most part. However, I think the Critical Acclaim vs. Sales Performance graph could be improved by excluding the outliers, as they skew the view of the majority of the data points."	|"The visualizations work well in general. However, the Platform-Specific Success by Score graph is not intuitive when it’s grouped by the average critic score. It feels a bit disconnected from the sales data."|
+|Do you feel that the dashboard covers all key insights, or are there additional details (e.g., filters or breakdowns) that could provide a more complete analysis?	|"It covers most of the key insights well, but I think the genre preference graph doesn't need a shifting years button. It makes the graph harder to understand because the animation isn’t very intuitive—it might be better to show a static comparison across regions instead."	|"The insights are well-covered, but too much text can make it harder to engage with the dashboard quickly. Perhaps the descriptions could be shortened or moved to tooltips."|
+|How easy is it to navigate and interact with the dashboard? Are the filters and interactive elements intuitive, or could they be more user-friendly?	|"The interactivity is mostly good, but the 'Instruction to understand the dashboard' button is hard to see. Making it more prominent would help users better understand how to navigate the dashboard."	|"It's mostly easy to navigate, but some elements, like the genre preferences graph, become less intuitive with the shifting years button. I think a static comparison would be clearer."|
+|What are your impressions of the design and layout? Do the charts, text, and filters feel well-balanced, or are there areas where the design could be improved?	|"Overall, the layout is visually appealing and balanced. Just focus on making some of the instructional elements more visible for a better user experience."	|"The design is clean and visually appealing, but the amount of text detracts from the overall simplicity. Reducing the text and improving the grouping in some of the graphs would make the dashboard easier to use."|
 
 ## Identified changes for Part III
 

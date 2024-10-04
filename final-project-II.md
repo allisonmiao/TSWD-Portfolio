@@ -64,3 +64,14 @@ Final Project Overview
 
 ## Identified changes for Part III
 
+| Research synthesis                       | Anticipated changes for Part III                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+|Finding 1: Difficulty seeing the 'Instruction to understand the dashboard' button	|Make the "Instruction" button more prominent by increasing its size, color contrast, or repositioning it in a more visible location on the dashboard.|
+|Finding 2: Critical Acclaim vs. Sales Performance graph has outliers that skew the view	|Exclude or provide an option to filter out outliers in the Critical Acclaim vs. Sales Performance graph to ensure clearer insights from the majority of the data.|
+|Finding 3: Genre preferences graph doesn't need shifting years button, and it becomes less intuitive	|Replace the animated year-changing function in the Genre Preferences by Region graph with a static comparison of different regions without the shifting years button. This will make the graph more intuitive and easier to understand.|
+|Finding 4: Platform-Specific Success by Score graph is not intuitive when grouped by the average critic score	|Reorganize the Platform-Specific Success by Score graph by grouping platforms based on total sales or some other metric instead of the average critic score, which feels disconnected.|
+|Finding 5: Too much text in the introduction	|Reduce and streamline the introduction text to make it less overwhelming for users. Consider moving some of the detailed descriptions into tooltips or side notes to maintain focus on the visuals.|
+
+**Final Thoughts:**
+
+The interview responses provided valuable insights into improving the dashboard's usability and clarity. The main focus will be simplifying the visuals and instructions, particularly making the Critical Acclaim vs. Sales Performance and Genre Preferences by Region graphs more intuitive by removing unnecessary elements like outliers and the shifting years button. Streamlining the text will also help make the dashboard more user-friendly and engaging. These changes aim to enhance both the user experience and the effectiveness of the storytelling.

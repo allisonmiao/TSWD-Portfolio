@@ -2,7 +2,7 @@
 
 # Part II: Final project wireframes/storyboards and user research
 
-Final Project Overview
+Final Project Part 2 Overview
 
 **The Relationship Between Video Game Quality and Sales Across Genres, Platforms, and Regions**
 

@@ -2,7 +2,7 @@
 
 # Part I: Final project
 
-Final Project Stage One Draft Overview
+Final Project Part 1 Overview
 
 ## An outline
 

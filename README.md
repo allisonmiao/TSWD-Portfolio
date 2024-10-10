@@ -21,9 +21,15 @@ Upon graduating, I plan to pursue a career where I can provide these capabilitie
 
 ## Assignment: [Visualizing government debt using Tableau](https://allisonmiao.github.io/TSWD-Portfolio/visualizing-debt)
 
+Data visualization exercise using the dataset of General Government Debt from the OECD.
+
 ## Assignment: [Critique by Design with Tableau (MakeoverMonday)](https://allisonmiao.github.io/TSWD-Portfolio/critique-by-design)
 
+Detailed step-by-step progress of redesigning a visualization from MakeoverMonday.
+
 ## Final Project:
+
+Analysis of the relationship between game quality, genre preferences, and platform performance, revealing key factors that drive global sales and long-term success in the gaming industry.
 
 [Part I: Final project](https://allisonmiao.github.io/TSWD-Portfolio/final-project-I)
 

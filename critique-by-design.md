@@ -2,7 +2,7 @@
 
 # Critique by Design with Tableau (MakeoverMonday)
 
-Detailed step-by-step progress of redesigning a visualization.
+Detailed step-by-step progress of redesigning a visualization from MakeoverMonday.
 
 ## Step one: choose a data visualization from MakeoverMonday
 

@@ -1,3 +1,5 @@
+| [home page](https://allisonmiao.github.io/TSWD-Portfolio) | [visualizing debt](https://allisonmiao.github.io/TSWD-Portfolio/visualizing-debt) | [critique by design](https://allisonmiao.github.io/TSWD-Portfolio/critique-by-design) | [final project I](https://allisonmiao.github.io/TSWD-Portfolio/final-project-I) | [final project II](https://allisonmiao.github.io/TSWD-Portfolio/final-project-II) | [final project III](https://allisonmiao.github.io/TSWD-Portfolio/final-project-III) |
+
 # Part I: Final project
 
 Final Project Overview

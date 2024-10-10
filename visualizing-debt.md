@@ -2,7 +2,7 @@
 
 # Visualizing government debt using Tableau
 
-This is a data visualization exercise using the dataset of General Government Debt from the OECD.
+Data visualization exercise using the dataset of General Government Debt from the OECD.
 
 ## Part 1: Working with web-based visualization tools and data
 

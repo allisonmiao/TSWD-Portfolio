@@ -27,12 +27,6 @@ Data visualization exercise using the dataset of General Government Debt from th
 
 Detailed step-by-step progress of redesigning a visualization from MakeoverMonday.
 
-## Final Project: [Part I](https://allisonmiao.github.io/TSWD-Portfolio/final-project-I) [Part II](https://allisonmiao.github.io/TSWD-Portfolio/final-project-II) [Part III](https://allisonmiao.github.io/TSWD-Portfolio/final-project-III)
+## Final Project: [Part I](https://allisonmiao.github.io/TSWD-Portfolio/final-project-I), [Part II](https://allisonmiao.github.io/TSWD-Portfolio/final-project-II), [Part III](https://allisonmiao.github.io/TSWD-Portfolio/final-project-III)
 
 Analysis of the relationship between game quality, genre preferences, and platform performance, revealing key factors that drive global sales and long-term success in the gaming industry.
-
-[Part I: Final project](https://allisonmiao.github.io/TSWD-Portfolio/final-project-I)
-
-[Part II: Final project wireframes/storyboards and user research](https://allisonmiao.github.io/TSWD-Portfolio/final-project-II)
-
-[Part III: Final project and presentation](https://allisonmiao.github.io/TSWD-Portfolio/final-project-III)

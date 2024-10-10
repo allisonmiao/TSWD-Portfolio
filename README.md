@@ -2,6 +2,8 @@
 
 # TSWD Portfolio
 Portfolio Page for Telling Story With Data
+- [Web Page](https://allisonmiao.github.io/TSWD-Portfolio)
+- [Repository](https://github.com/allisonmiao/TSWD-Portfolio)
 
 # About Me
 My name is Allison Miao, and I use she/her/her pronouns. I am currently a graduate student in the Business Intelligence & Data Analytics pathway of the Information Systems Management program at Carnegie Mellon University. This advanced program is designed to deepen my understanding and enhance my skills in managing and analyzing data, preparing me to solve complex information systems problems in the business world.

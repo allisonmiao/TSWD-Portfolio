@@ -2,6 +2,8 @@
 
 # Part III: Final project and presentation
 
+Final Project Part 3 Overview
+
 ## The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 

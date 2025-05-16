@@ -6,11 +6,11 @@ Portfolio Page for Telling Story With Data
 - [Repository](https://github.com/allisonmiao/TSWD-Portfolio)
 
 # About Me
-My name is Allison Miao, and I use she/her/her pronouns. I am currently a graduate student in the Business Intelligence & Data Analytics pathway of the Information Systems Management program at Carnegie Mellon University. This advanced program is designed to deepen my understanding and enhance my skills in managing and analyzing data, preparing me to solve complex information systems problems in the business world.
+My name is Allison Miao (she/her), and I recently earned my Master's degree in Information Systems Management, with a concentration in Business Intelligence & Data Analytics, from Carnegie Mellon University. This program equipped me with the technical and strategic skills to manage and analyze data effectively, preparing me to tackle complex challenges at the intersection of technology and business.
 
-My journey began with my undergraduate studies at The Ohio State University, where I earned my degree in Business Economics from the Fisher College of Business. This foundational education provided me with a solid understanding of economic principles and their application to business strategies and operations.
+I hold a Bachelor's degree in Business Economics from The Ohio State University’s Fisher College of Business, where I developed a strong foundation in economic analysis and its practical applications in business decision-making.
 
-I am eager to leverage my background and ongoing education to contribute to and learn from dynamic teams focused on innovation and strategic data use. I look forward to connecting with professionals and exploring opportunities where I can apply my skills and grow professionally.
+I am currently seeking full-time opportunities where I can contribute to data-driven initiatives, collaborate across teams, and continue learning in dynamic and impact-oriented environments. I look forward to connecting with professionals and exploring roles where I can apply my skills to drive meaningful outcomes.
 
 Feel free to connect with me on LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/allison-yuhan-miao/)
 
